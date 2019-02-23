@@ -1,0 +1,4 @@
+index.html
+liosta.html
+$MYVIMRC
+README.md
